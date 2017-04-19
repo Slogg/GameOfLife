@@ -1,0 +1,7 @@
+D:\Learning\YaP\c#\ConsoleTest\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+D:\Job\Тестирование\4Magnit\GameOfLife\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+D:\Job\Тестирование\4Magnit\GameOfLife\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+D:\Job\Тестирование\4Magnit\GameOfLife\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+D:\Job\Тестирование\4Magnit\GameOfLife\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+D:\Job\Тестирование\4Magnit\GameOfLife\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+D:\Job\Тестирование\4Magnit\GameOfLife\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
